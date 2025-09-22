@@ -213,8 +213,8 @@ create_cluster_profiles(results)
 
 This project is for internal business use. Data and methodologies are proprietary.
 
----
 
-**Last Updated**: [Current Date]
+
+**Last Updated**:22ND OF SEPT 2025
 **Model Version**: 1.0
 **Next Review**: [Date + 3 months]
